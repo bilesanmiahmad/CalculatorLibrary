@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/medo/.local/share/virtualenvs/CalculatorLibrary-ZgDAPUSa/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
