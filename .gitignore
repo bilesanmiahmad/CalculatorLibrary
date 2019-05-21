@@ -44,6 +44,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+
 .hypothesis/
 .pytest_cache/
 
@@ -102,3 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
+
+# Pipfile
+*.lock
